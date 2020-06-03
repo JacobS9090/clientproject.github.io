@@ -1,0 +1,61 @@
+.round{
+  border-radius: 60%;
+}
+.logo{
+  width:400px;
+  height:400px;
+}
+.b{
+  background-color:beige;
+}
+.info{
+  font-family: courier;
+  font-size: 28px;
+  font-style:oblique;
+  color:#34a8c2;
+}
+.nav-tabs{
+  color:#03adfc;
+}
+.ref{
+  width:550px;
+  height:550px;
+}
+.e{
+  border-radius: 10%;
+}
+
+h4,li,h1{
+    color:#34a8c2;
+}
+.staff{
+  width:330px;
+  height:330px;
+  border-radius: 55%;
+}
+.gor{
+  background-color:beige;
+}
+
+.bumper{
+  width:650px;
+  height:650px;
+}
+.fp{
+  font-size: 9px;
+}
+.ert:hover{
+  background-color:beige;
+}
+.back{
+    background-image: url("IMG/logo.png");
+}
+#section{
+   background-color: yellow;
+  }
+.bou{
+  background-image: url("IMG/ocean.jpg");
+}
+h2{
+  color:silver;
+}
